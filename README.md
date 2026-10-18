@@ -174,29 +174,6 @@ Scroll supports Scoped Storage on Android 10+ and 11+ (API 30+) using media perm
 
 ---
 
-## 📦 Pushing to GitHub
-
-To publish this project to your GitHub account:
-
-```bash
-# 1. Initialize git repository (if not already done)
-git init
-
-# 2. Stage all project files
-git add .
-
-# 3. Create your initial commit
-git commit -m "feat: Scroll v2.0.0 - Local video feed with background audio, smart queue, and touch speed-up"
-
-# 4. Set default branch to main
-git branch -M main
-
-# 5. Link your remote GitHub repository
-git remote add origin https://github.com/<your-username>/<your-repo-name>.git
-
-# 6. Push code to GitHub
-git push -u origin main
-```
 
 ---
 
